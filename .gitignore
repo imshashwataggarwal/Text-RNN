@@ -1,0 +1,14 @@
+.eggs
+eggs
+lib
+lib64
+parts
+sdist
+var
+
+/data/
+/model/
+
+sample.py
+/__pycache__/
+/.ipynb_checkpoints/
